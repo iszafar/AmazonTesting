@@ -12,6 +12,7 @@ import org.testng.asserts.SoftAssert;
 
 import library.AmazonPage;
 import utilities.Base;
+import utilities.Base2;
 
 public class AmazonTest extends Base {
 	SoftAssert softAssert = new SoftAssert();
